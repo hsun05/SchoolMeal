@@ -38,14 +38,14 @@ echo $api;
 ```
 
 ## 출력 값
--성공시
+- 성공시
 ```
 status = 상태  예) success
 date = 날짜(Ymd 형식)
 meal = 급식(firstmeal\nsecondmeal\nthirdmeal)
 cal = 칼로리  예) 123.Kcal
 ```
--실패시
+- 실패시
 ```
 status = 상태  예) fail
 message = 결과
